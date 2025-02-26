@@ -57,5 +57,5 @@ Before the data cleaning process, I need to be familiar with the data to find th
 
 Observations:
 
-![image](https://github.com/wifaqmn/cyclistic-case-study/blob/main/a.jpeg)
+![image](https://github.com/wifaqmn/imagecontent/blob/main/a.jpeg)
  
