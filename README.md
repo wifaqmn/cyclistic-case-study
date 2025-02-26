@@ -70,3 +70,17 @@ Observations:
    ![image](https://github.com/wifaqmn/imagecontent/blob/main/c.jpeg)
 
    There are 211 duplicates row for __ride_id__.
+
+4. All __ride_id__ values have 16 character length, therefore data cleaning is unnecessary.
+5. here are 3 unique types of bikes(__rideable_type__) in our data.
+![image](https://github.com/wifaqmn/imagecontent/blob/main/d.jpeg)
+
+6. The __started_at__ and __ended_at__ shows start and end time of the trip in YYYY-MM-DD hh:mm:ss UTC format. New column ride_length can be created to find the total trip duration. There are 7596 trips which has duration longer than a day and 132644 trips having less than a minute duration or having end time earlier than start time so need to remove them.
+7. Total of 1073951 rows have both __start_station_name__ and __start_station_id__ missing which needs to be removed.  
+8. Total of 1104653 rows have both __end_station_name__ and __end_station_id__ missing which needs to be removed.
+9. Total of 7232 rows have both __end_lat__ and __end_lng__ missing which needs to be removed.
+10. __member_casual__ column has 2 uniqued values as member or casual rider.
+
+    ![image](https://github.com/wifaqmn/imagecontent/blob/main/e.jpeg)
+
+11. Columns that need to be removed are start_station_id and end_station_id as they do not add value to analysis of our current problem. Longitude and latitude location columns may not be used in analysis but can be used to visualise a map.
