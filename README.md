@@ -126,9 +126,9 @@ We can conclude that members may using bike for commuting to and from work durin
 
 Ride duration of the trips are compared to find the differences in the behavior of casual and member riders.
 
-[image](https://github.com/wifaqmn/imagecontent/blob/main/avg_duration_cyclistic.png)
+![image](https://github.com/wifaqmn/imagecontent/blob/main/avg_duration_cyclistic.png)
 
-Based on the charts above we can observe casual riders cycle longer than members on average. The average duration for members we consistent the year, weeks and days. Casual riders on the other hand show variations in their average duration of the trips. They travel greater distance during from March to August (spring to summer), during the wekkends and from 8AM to 10AM throghout the day.
+Based on the charts above we can observe casual riders travel longer than members on average. The average duration for members we consistent the year, weeks and days. Casual riders on the other hand show variations in their average duration of the trips. They travel greater distance during from March to August (spring to summer), during the wekkends and from 8AM to 10AM throghout the day.
 
 From the findings, we can infer casual riders travel longer (approximately 2 times more) but less frequent than members. Casual riders make travel longer distance during the day outside peak hour and on the weekends and during spring and summer time, thus they most probably do for leasure purposes.
 
