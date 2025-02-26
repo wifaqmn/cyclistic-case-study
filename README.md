@@ -116,7 +116,7 @@ The number of trips is distributed by the months, days of the week and hours of 
 
 __Months:__ Both casual and members show comparable trends, with significant increase from April to July (spring - summer) and decrease from August to December (autumn - winter).  The gap between casuals and members is closest in the month of July in summmer.
 
-__Days of the Week:__ Graph shows casual riders make more journey during the weekends while members show a declione over the wwekends compared to other days of the week.
+__Days of the Week:__ Graph shows casual riders make more journey during the weekends while members show a declione over the weekends compared to other days of the week.
 
 __Hours of the Day:__ The members shows 2 peaks throughout the day in terms of number of trips. Firstly is early in the morning at around 5AM to 8AM and secondly is in the evening at around 3PM to 5PM while number of trips for casual riders increase consistently over the day till evening and then decrease afterwards.
 
