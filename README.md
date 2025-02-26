@@ -4,16 +4,10 @@ In this case study, I will perform real-world tasks as junior data analyst for a
 ### Quick links:
 Data Source: [divvy_tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html) [accessed on 24/02/25]  
 
-SQL queries: 
-[1. data combination](https://github.com/wifaqmn/cyclistic-case-study/blob/main/1_data_combination.sql) 
-[2. data exploration](https://github.com/wifaqmn/cyclistic-case-study/blob/main/2_data_exploration.sql) 
-[3. data cleaning](https://github.com/wifaqmn/cyclistic-case-study/blob/main/3_data_cleaning.sql)
-
 SQL Queries:  
-[01. Data Combining](https://github.com/SomiaNasir/Google-Data-Analytics-Capstone-Cyclistic-Case-Study/blob/main/01.%20Data%20Combining.sql)  
-[02. Data Exploration](https://github.com/SomiaNasir/Google-Data-Analytics-Capstone-Cyclistic-Case-Study/blob/main/02.%20Data%20Exploration.sql)  
-[03. Data Cleaning](https://github.com/SomiaNasir/Google-Data-Analytics-Capstone-Cyclistic-Case-Study/blob/main/03.%20Data%20Cleaning.sql)  
-[04. Data Analysis](https://github.com/SomiaNasir/Google-Data-Analytics-Capstone-Cyclistic-Case-Study/blob/main/04.%20Data%20Analysis.sql)  
+[1. Data Combining](https://github.com/wifaqmn/cyclistic-case-study/blob/main/1_data_combination.sql)  
+[2. Data Exploration](https://github.com/wifaqmn/cyclistic-case-study/blob/main/2_data_exploration.sql)  
+[3. Data Cleaning](https://github.com/wifaqmn/cyclistic-case-study/blob/main/3_data_cleaning.sql)  
 
 Data Visualizations: [Power BI]()
 
