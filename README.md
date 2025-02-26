@@ -137,6 +137,6 @@ From the findings, we can infer casual riders travel longer (approximately 2 tim
 In order to further understand the indifferences betwwen casual and member riders, locations of starting and ending stations were analysed. Stations with the most trips are considered using filters to draw out the following conclusions.
 
 ![image](https://github.com/wifaqmn/imagecontent/blob/main/start_location_cyclistic.png)
-![image](https://github.com/wifaqmn/imagecontent/blob/main/send_location_cyclistic.png)
+![image](hhttps://github.com/wifaqmn/imagecontent/blob/main/end_location_cyclistic.png)
 
 Based on both starting and ending locations above, we can see casual riders frequently started and ended their trips from the stations in vicinity of beach, parks, museums, aquarium and harbor points while members started and ended their journeys from stations close to universities, schools, residential areas, hospitals, restaurants, grocery stores, train stations, theatre, factories, banks, parks and plazas. Therefore, it demonstrates casual riders use bikes for leisure activities while members vastly depend on them for daily commute.
