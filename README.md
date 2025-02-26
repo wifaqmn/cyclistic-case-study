@@ -100,7 +100,7 @@ Data Visualizations: [Power BI](https://app.powerbi.com/groups/me/reports/b7f82e
 
 Analysis question no. 1: How do annual members and casual riders use Cyclistic bikes differently?
 
-#### 1. Type of bikes used in 2024
+#### 1. Type of bikes used
 
 Pie charts below represent comparison of member and casual rider by the type of bikes they are using.
 
@@ -108,4 +108,16 @@ Pie charts below represent comparison of member and casual rider by the type of 
 
 Members make almost double the casual riders which is 63.87% of the total while the rest is 36.13% for the casual riders. Each bike type chart shows percentage from the total. __Classic bike__ is the most used bikes followed by __electric bike__ and __electric scooter__ respectively.
 
-#### 2. Total trips in 2024
+#### 2. Total trips
+
+The number of trips is distributed by the months, days of the week and hours of the day are examnined.
+
+![image](https://github.com/wifaqmn/imagecontent/blob/main/total_trips_cyclistic.png)
+
+__Months:__ Both casual and members show comparable trends, with significant increase from April to July (spring - summer) and decrease from August to December (autumn - winter) respectively.  The gap between casuals and members is closest in the month of July in summmer.
+
+__Days of the Week:__ Graph shows casual riders make more journey during the weekends while members show a declione over the wwekends compared to other days of the week.
+
+__Hours of the Day:__ The members shows 2 peaks throughout the day in terms of number of trips. Firstly is early in the morning at around 5AM to 8AM and secondly is in the evening at around 3PM to 5PM while number of trips for casual riders increase consistently over the day till evening and then decrease afterwards.
+
+We can conclude that members may using bike for commuting to and from work during weekdays while casual riders were using bikes throughout the days, more frequent during the weekends for leisure purposes mostly. Both riders are most active from spring to summer.
