@@ -64,7 +64,7 @@ Observations:
     ![image](https://github.com/wifaqmn/imagecontent/blob/main/b.jpeg)
    Note that some columns have the same number of missing values due to missing row in the same row. e.g: station's name and id for the same station and latitude and longitude for the same ending station.
  
-3. As ride_id has no null values, let's use it to check for duplicates.
+3. As __ride_id__ has no null values, let's use it to check for duplicates.
 
    ![image](https://github.com/wifaqmn/imagecontent/blob/main/c.jpeg)
 
