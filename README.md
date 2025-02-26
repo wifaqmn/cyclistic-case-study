@@ -9,6 +9,12 @@ SQL queries:
 [2. data exploration](https://github.com/wifaqmn/cyclistic-case-study/blob/main/2_data_exploration.sql) 
 [3. data cleaning](https://github.com/wifaqmn/cyclistic-case-study/blob/main/3_data_cleaning.sql)
 
+SQL Queries:  
+[01. Data Combining](https://github.com/SomiaNasir/Google-Data-Analytics-Capstone-Cyclistic-Case-Study/blob/main/01.%20Data%20Combining.sql)  
+[02. Data Exploration](https://github.com/SomiaNasir/Google-Data-Analytics-Capstone-Cyclistic-Case-Study/blob/main/02.%20Data%20Exploration.sql)  
+[03. Data Cleaning](https://github.com/SomiaNasir/Google-Data-Analytics-Capstone-Cyclistic-Case-Study/blob/main/03.%20Data%20Cleaning.sql)  
+[04. Data Analysis](https://github.com/SomiaNasir/Google-Data-Analytics-Capstone-Cyclistic-Case-Study/blob/main/04.%20Data%20Analysis.sql)  
+
 Data Visualizations: [Power BI]()
 
 ## Background
