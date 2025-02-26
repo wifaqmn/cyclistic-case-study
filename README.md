@@ -89,8 +89,8 @@ Observations:
 
 SQL Query: [Data Cleaning](https://github.com/wifaqmn/cyclistic-case-study/blob/main/3_data_cleaning.sql)
 
-1. All the rows having duplicate values for __ride_id__ are deleted.
-2. All the rows having missing values are deleted.
+1. All rows having duplicate values for __ride_id__ are deleted.
+2. All rows having missing values are deleted.
 3. A new column named __ride_length__ is added.
 4. Trip duration with less than a minute and longer than 1 day are removed.
 5. A total of 1,692,774 rows are removed in this steps.
