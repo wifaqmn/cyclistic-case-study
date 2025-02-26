@@ -50,9 +50,12 @@ A worksheet can only have 1,048,576 rows in Microsoft Excel because of its inabi
 SQL Query: [Data Combining](https://github.com/wifaqmn/cyclistic-case-study/blob/main/1_data_combination.sql)  
 12 csv files are uploaded as tables in the dataset 'trip_data'. Another table named "customer_data_2024" is created, containing 5,860,568 rows of data for the entire year. 
 ### Data Exploration
+
+
 SQL Query: [Data Exploration](https://github.com/wifaqmn/cyclistic-case-study/blob/main/2_data_exploration.sql)  
 Before the data cleaning process, I need to be familiar with the data to find the inconsistencies.
 
 Observations:
 
+![image](https://github.com/wifaqmn/cyclistic-case-study/blob/main/a.jpeg)
  
