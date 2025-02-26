@@ -58,14 +58,14 @@ FROM cyclistic-project-50.trip_data.customer_data_2024
 WHERE (
   EXTRACT(HOUR FROM (ended_at - started_at)) * 60 +
   EXTRACT(MINUTE FROM (ended_at - started_at)) +
-  EXTRACT(SECOND FROM (ended_at - started_at)) / 60) >= 1440;  -- longer than a day | total rows = 7596
+  EXTRACT(SECOND FROM (ended_at - started_at)) / 60) >= 1440;  -- longer than a day | total rows = 7,596
 
 SELECT COUNT(*) AS less_than_a_minute
 FROM cyclistic-project-50.trip_data.customer_data_2024
 WHERE (
   EXTRACT(HOUR FROM (ended_at - started_at)) * 60 +
   EXTRACT(MINUTE FROM (ended_at - started_at)) +
-  EXTRACT(SECOND FROM (ended_at - started_at)) / 60) <= 1;  -- less than a minute | total rows = 132644
+  EXTRACT(SECOND FROM (ended_at - started_at)) / 60) <= 1;  -- less than a minute | total rows = 1,326,44
 
 -- start_station_name, start_station_id - total of 1073951 rows with both start station name & id are null
 
@@ -75,7 +75,7 @@ GROUP BY start_station_name;
 
 SELECT COUNT(ride_id) AS total_null_rows_start_station
 FROM cyclistic-project-50.trip_data.customer_data_2024
-WHERE start_station_name IS NULL OR start_station_id IS NULL;  -- returned 1073951 rows
+WHERE start_station_name IS NULL OR start_station_id IS NULL;  -- returned 1,073,951 rows
 
 -- end_station_name, end_station_id - total of 1104653 rows with both end station name & id are null
 
@@ -85,10 +85,10 @@ GROUP BY end_station_name;
 
 SELECT COUNT(ride_id) AS total_null_rows_end_station
 FROM cyclistic-project-50.trip_data.customer_data_2024
-WHERE end_station_name IS NULL OR end_station_id IS NULL;  -- returned 1104653 rows
+WHERE end_station_name IS NULL OR end_station_id IS NULL;  -- returned 1,104,653 rows
 
 -- end_lat, end_lng - total 7232 rows with both null
 
 SELECT COUNT(ride_id) AS total_null_rows_end_loc
 FROM cyclistic-project-50.trip_data.customer_data_2024
-WHERE end_lat IS NULL OR end_lng IS NULL; -- returned 7232 rows
+WHERE end_lat IS NULL OR end_lng IS NULL; -- returned 7,232 rows
