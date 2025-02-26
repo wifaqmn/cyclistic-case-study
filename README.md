@@ -130,7 +130,13 @@ Ride duration of the trips are compared to find the differences in the behavior 
 
 Based on the charts above we can observe casual riders travel longer than members on average. The average duration for members we consistent the year, weeks and days. Casual riders on the other hand show variations in their average duration of the trips. They travel greater distance during from March to August (spring to summer), during the wekkends and from 8AM to 10AM throghout the day.
 
-From the findings, we can infer casual riders travel longer (approximately 2 times more) but less frequent than members. Casual riders make travel longer distance during the day outside peak hour and on the weekends and during spring and summer time, thus they most probably do for leasure purposes.
+From the findings, we can infer casual riders travel longer (approximately 2 times more) but less frequent than members. Casual riders make travel longer distance during the day outside of peak hour, on the weekends and during spring and summer time, thus they most probably do for leisure purposes.
 
-#### 4. Maps
+#### 4. Total trips at starting and ending locations
 
+In order to further understand the indifferences betwwen casual and member riders, locations of starting and ending stations were analysed. Stations with the most trips are considered using filters to draw out the following conclusions.
+
+![image](https://github.com/wifaqmn/imagecontent/blob/main/start_location_cyclistic.png)
+![image](https://github.com/wifaqmn/imagecontent/blob/main/send_location_cyclistic.png)
+
+Based on both starting and ending locations above, we can see casual riders frequently started and ended their trips from the stations in vicinity of beach, parks, museums, aquarium and harbor points while members started and ended their journeys from stations close to universities, schools, residential areas, hospitals, restaurants, grocery stores, train stations, theatre, factories, banks, parks and plazas. Therefore, it demonstrates casual riders use bikes for leisure activities while members vastly depend on them for daily commute.
