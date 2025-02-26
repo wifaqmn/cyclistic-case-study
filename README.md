@@ -9,7 +9,7 @@ SQL Queries:
 [2. Data Exploration](https://github.com/wifaqmn/cyclistic-case-study/blob/main/2_data_exploration.sql)  
 [3. Data Cleaning](https://github.com/wifaqmn/cyclistic-case-study/blob/main/3_data_cleaning.sql)  
 
-Data Visualizations: [Power BI]()
+Data Visualizations: [Power BI](https://app.powerbi.com/groups/me/reports/b7f82eb1-91eb-44b4-b22f-4014c3963837/32cbff69d977a14280f1?experience=power-bi)
 
 ## Background
 ### Cyclistic
