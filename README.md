@@ -63,5 +63,9 @@ Observations:
 2. The following table shows number of __null values__ in each column.  
    
     ![image](https://github.com/wifaqmn/imagecontent/blob/main/b.jpeg)
-   Note that some columns have the same number of null values due to missing row in the same row. e.g: station's name and id for the same station and latitude and longitude for the same ending station.
+   Note that some columns have the same number of missing values due to missing row in the same row. e.g: station's name and id for the same station and latitude and longitude for the same ending station.
  
+3. As ride_id has no null values, let's use it to check for duplicates.
+
+   ![image](https://github.com/wifaqmn/imagecontent/blob/main/c.jpeg)
+   There are 211 duplicates row for __ride_id__.
