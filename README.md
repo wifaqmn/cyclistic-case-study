@@ -5,11 +5,8 @@ In this case study, I will perform real-world tasks as junior data analyst for a
 Data Source: [divvy_tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html) [accessed on 24/02/25]  
 
 SQL queries:
-
 [1. data combination](https://github.com/wifaqmn/cyclistic-case-study/blob/main/1_data_combination.sql)
-
 [2. data exploration](https://github.com/wifaqmn/cyclistic-case-study/blob/main/2_data_exploration.sql)
-
 [3. data cleaning](https://github.com/wifaqmn/cyclistic-case-study/blob/main/3_data_cleaning.sql)
 
 Data Visualizations: [Power BI]()
