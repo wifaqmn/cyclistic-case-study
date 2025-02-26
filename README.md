@@ -68,4 +68,5 @@ Observations:
 3. As ride_id has no null values, let's use it to check for duplicates.
 
    ![image](https://github.com/wifaqmn/imagecontent/blob/main/c.jpeg)
+
    There are 211 duplicates row for __ride_id__.
