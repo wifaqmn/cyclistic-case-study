@@ -84,4 +84,4 @@ Observations:
 
     ![image](https://github.com/wifaqmn/imagecontent/blob/main/e.jpeg)
 
-11. Columns that need to be removed are start_station_id and end_station_id as they do not add value to analysis of our current problem. Longitude and latitude location columns may not be used in analysis but can be used to visualise a map.
+11. Columns that need to be removed are start_station_id and end_station_id as they do not add value to analysis of our current problem. Longitude and latitude columns may not be used in analysis but can be used to visualise a map.
