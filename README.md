@@ -43,15 +43,14 @@ This is public data that can be used to explore how different customer types are
 There are 12 files with naming convention of YYYYMM-divvy-tripdata and each file includes information for one month, such as the ride id, bike type, start time, end time, start station, end station, start location, end location, and whether the rider is a member or not. The corresponding column names are ride_id, rideable_type, started_at, ended_at, start_station_name, start_station_id, end_station_name, end_station_id, start_lat, start_lng, end_lat, end_lng and member_casual.
 
 ## Process
-BigQuery is used to combine the various datasets into one dataset and clean it.    
+BigQuery is used to combine the various datasets into one dataset and clean it.
+
 Reason:  
 A worksheet can only have 1,048,576 rows in Microsoft Excel because of its inability to manage large amounts of data. Because the Cyclistic dataset has more than 5.8 million rows, it is essential to use a platform like BigQuery that supports huge volumes of data.
 ### Combining the Data
 SQL Query: [Data Combining](https://github.com/wifaqmn/cyclistic-case-study/blob/main/1_data_combination.sql)  
 12 csv files are uploaded as tables in the dataset 'trip_data'. Another table named "customer_data_2024" is created, containing 5,860,568 rows of data for the entire year. 
 ### Data Exploration
-
-
 SQL Query: [Data Exploration](https://github.com/wifaqmn/cyclistic-case-study/blob/main/2_data_exploration.sql)  
 Before the data cleaning process, I need to be familiar with the data to find the inconsistencies.
 
@@ -69,9 +68,9 @@ Observations:
 
    ![image](https://github.com/wifaqmn/imagecontent/blob/main/c.jpeg)
 
-   There are 211 duplicates row for __ride_id__.
+   There are 211 duplicate rows for __ride_id__.
 
-4. All __ride_id__ values have 16 character length, therefore data cleaning is unnecessary.
+4. All __ride_id__ values have 16 character length, therefore data cleaning is not required.
 5. Here are 3 unique types of bikes (__rideable_type__) in our data.
    
     ![image](https://github.com/wifaqmn/imagecontent/blob/main/d.jpeg)
