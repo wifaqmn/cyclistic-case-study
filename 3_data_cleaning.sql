@@ -36,7 +36,7 @@ ALTER TABLE cyclistic-project-50.trip_data.customer_data_2024  -- set ride_id as
 ADD PRIMARY KEY(ride_id) NOT ENFORCED;
 
 SELECT COUNT(ride_id) AS no_of_rows
-FROM cyclistic-project-50.trip_data.customer_data_2024_cleaned;  -- returned 4,167,794 rows so 1,692,774 rows removed
+FROM cyclistic-project-50.trip_data.customer_data_2024_cleaned;  -- returned 4,167,794 rows so 1,692,985 rows removed
 
 -- checking for duplicate rows
 
