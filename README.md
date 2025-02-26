@@ -58,5 +58,10 @@ Before the data cleaning process, I need to be familiar with the data to find th
 Observations:
 1. The table below shows the all column names and their data types. The __ride_id__ column is our primary key.
 
-![image](https://github.com/wifaqmn/imagecontent/blob/main/a.jpeg)
+    ![image](https://github.com/wifaqmn/imagecontent/blob/main/a.jpeg)
+
+2. The following table shows number of __null values__ in each column.  
+   
+    ![image](https://github.com/wifaqmn/imagecontent/blob/main/b.jpeg)
+   Note that some columns have the same number of null values due to missing row in the same row. e.g: station's name and id for the same station and latitude and longitude for the same ending station.
  
