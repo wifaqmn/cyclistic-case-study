@@ -94,3 +94,12 @@ SQL Query: [Data Cleaning](https://github.com/wifaqmn/cyclistic-case-study/blob/
 3. A new column named __ride_length__ is added.
 4. Trip duration with less than a minute and longer than 1 day are removed.
 5. A total of 1,692,774 rows are removed in this steps.
+
+### Analyze & Share
+Data Visualizations: [Power BI](https://app.powerbi.com/groups/me/reports/b7f82eb1-91eb-44b4-b22f-4014c3963837/32cbff69d977a14280f1?experience=power-bi)
+
+Analysis question no. 1: How do annual members and casual riders use Cyclistic bikes differently?
+
+Pie charts below represent member and casual rider are compared by the type of bikes they are using.
+
+![image](https://github.com/wifaqmn/imagecontent/blob/main/bike_types_cyclistic.png)
