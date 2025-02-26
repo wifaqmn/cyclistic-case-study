@@ -110,7 +110,7 @@ Members make almost double the casual riders which is 63.87% of the total while 
 
 #### 2. Total trips
 
-The number of trips is distributed by the months, days of the week and hours of the day are examnined.
+The number of trips is distributed by the months, days of the week and hours of the day are examined.
 
 ![image](https://github.com/wifaqmn/imagecontent/blob/main/total_trips_cyclistic.png)
 
