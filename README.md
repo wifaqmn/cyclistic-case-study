@@ -72,7 +72,7 @@ Observations:
    There are 211 duplicates row for __ride_id__.
 
 4. All __ride_id__ values have 16 character length, therefore data cleaning is unnecessary.
-5. Here are 3 unique types of bikes(__rideable_type__) in our data.
+5. Here are 3 unique types of bikes (__rideable_type__) in our data.
    
     ![image](https://github.com/wifaqmn/imagecontent/blob/main/d.jpeg)
 
