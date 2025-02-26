@@ -80,7 +80,7 @@ Observations:
 7. Total of 1073951 rows have both __start_station_name__ and __start_station_id__ missing which needs to be removed.  
 8. Total of 1104653 rows have both __end_station_name__ and __end_station_id__ missing which needs to be removed.
 9. Total of 7232 rows have both __end_lat__ and __end_lng__ missing which needs to be removed.
-10. __member_casual__ column has 2 uniqued values as member or casual rider.
+10. __member_casual__ column has 2 unique values as member or casual rider.
 
     ![image](https://github.com/wifaqmn/imagecontent/blob/main/e.jpeg)
 
