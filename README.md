@@ -93,4 +93,4 @@ SQL Query: [Data Cleaning](https://github.com/wifaqmn/cyclistic-case-study/blob/
 2. All the rows having missing values are deleted.
 3. A new column named __ride_length__ is added.
 4. Trip duration with less than a minute and longer than 1 day are removed.
-5. A total of 1,692,985 rows are removed in this steps.
+5. A total of 1,692,774 rows are removed in this steps.
