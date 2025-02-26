@@ -120,4 +120,17 @@ __Days of the Week:__ Graph shows casual riders make more journey during the wee
 
 __Hours of the Day:__ The members shows 2 peaks throughout the day in terms of number of trips. First is early in the morning at around 5AM to 8AM and secondly is in the evening at around 3PM to 5PM while number of trips for casual riders increase consistently over the day till evening and then decrease afterwards.
 
-We can conclude that members may using bike for commuting to and from work during weekdays while casual riders were using bikes throughout the days, more frequent during the weekends for leisure purposes mostly. Both riders are most active from spring to summer.
+We can conclude that members may using bike for commuting to and from work during weekdays while casual riders were using bikes throughout the days, more frequent during the weekends for recreation purposes mostly. Both riders are most active from spring to summer.
+
+#### 3. Ride duration of the trips
+
+Ride duration of the trips are compared to find the differences in the behavior of casual and member riders.
+
+[image](https://github.com/wifaqmn/imagecontent/blob/main/avg_duration_cyclistic.png)
+
+Based on the charts above we can observe casual riders cycle longer than members on average. The average duration for members we consistent the year, weeks and days. Casual riders on the other hand show variations in their average duration of the trips. They travel greater distance during from March to August (spring to summer), during the wekkends and from 8AM to 10AM throghout the day.
+
+From the findings, we can infer casual riders travel longer (approximately 2 times more) but less frequent than members. Casual riders make travel longer distance during the day outside peak hour and on the weekends and during spring and summer time, thus they most probably do for leasure purposes.
+
+#### 4. Maps
+
