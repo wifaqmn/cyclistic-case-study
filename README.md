@@ -5,11 +5,11 @@ In this case study, I will perform real-world tasks as junior data analyst for a
 Data Source: [divvy_tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html) [accessed on 24/02/25]  
 
 SQL queries:
-[1. data combination] (https://github.com/wifaqmn/cyclistic-case-study/blob/main/1_data_combination.sql)
-[1. data exploration] (https://github.com/wifaqmn/cyclistic-case-study/blob/main/2_data_exploration.sql)
-[1. data cleaning] (https://github.com/wifaqmn/cyclistic-case-study/blob/main/3_data_cleaning.sql)
+[1. data combination](https://github.com/wifaqmn/cyclistic-case-study/blob/main/1_data_combination.sql)
+[1. data exploration](https://github.com/wifaqmn/cyclistic-case-study/blob/main/2_data_exploration.sql)
+[1. data cleaning](https://github.com/wifaqmn/cyclistic-case-study/blob/main/3_data_cleaning.sql)
 
-Data Visualizations: [Power BI] ()
+Data Visualizations: [Power BI]()
 
 ## Background
 ### Cyclistic
@@ -51,5 +51,8 @@ SQL Query: [Data Combining](https://github.com/wifaqmn/cyclistic-case-study/blob
 12 csv files are uploaded as tables in the dataset 'trip_data'. Another table named "customer_data_2024" is created, containing 5,860,568 rows of data for the entire year. 
 ### Data Exploration
 SQL Query: [Data Exploration](https://github.com/wifaqmn/cyclistic-case-study/blob/main/2_data_exploration.sql)  
-Before the data cleaning process, I need to be familiar with the data to find the inconsistencies.  
+Before the data cleaning process, I need to be familiar with the data to find the inconsistencies.
+
+Observations:
+
  
