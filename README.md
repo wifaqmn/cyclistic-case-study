@@ -118,6 +118,6 @@ __Months:__ Both casual and members show comparable trends, with significant inc
 
 __Days of the Week:__ Graph shows casual riders make more journey during the weekends while members show a decline over the weekends compared to other days of the week.
 
-__Hours of the Day:__ The members shows 2 peaks throughout the day in terms of number of trips. Firstly is early in the morning at around 5AM to 8AM and secondly is in the evening at around 3PM to 5PM while number of trips for casual riders increase consistently over the day till evening and then decrease afterwards.
+__Hours of the Day:__ The members shows 2 peaks throughout the day in terms of number of trips. First is early in the morning at around 5AM to 8AM and secondly is in the evening at around 3PM to 5PM while number of trips for casual riders increase consistently over the day till evening and then decrease afterwards.
 
 We can conclude that members may using bike for commuting to and from work during weekdays while casual riders were using bikes throughout the days, more frequent during the weekends for leisure purposes mostly. Both riders are most active from spring to summer.
