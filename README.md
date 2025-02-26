@@ -114,7 +114,7 @@ The number of trips is distributed by the months, days of the week and hours of 
 
 ![image](https://github.com/wifaqmn/imagecontent/blob/main/total_trips_cyclistic.png)
 
-__Months:__ Both casual and members show comparable trends, with significant increase from April to July (spring - summer) and decrease from August to December (autumn - winter) respectively.  The gap between casuals and members is closest in the month of July in summmer.
+__Months:__ Both casual and members show comparable trends, with significant increase from April to July (spring - summer) and decrease from August to December (autumn - winter).  The gap between casuals and members is closest in the month of July in summmer.
 
 __Days of the Week:__ Graph shows casual riders make more journey during the weekends while members show a declione over the wwekends compared to other days of the week.
 
