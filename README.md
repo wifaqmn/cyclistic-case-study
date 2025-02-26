@@ -100,6 +100,12 @@ Data Visualizations: [Power BI](https://app.powerbi.com/groups/me/reports/b7f82e
 
 Analysis question no. 1: How do annual members and casual riders use Cyclistic bikes differently?
 
-Pie charts below represent member and casual rider are compared by the type of bikes they are using.
+#### 1. Type of bikes used in 2024
+
+Pie charts below represent comparison of member and casual rider by the type of bikes they are using.
 
 ![image](https://github.com/wifaqmn/imagecontent/blob/main/bike_types_cyclistic.png)
+
+Members make almost double the casual riders which is 63.87% of the total while the rest is 36.13% for the casual riders. Each bike type chart shows percentage from the total. __Classic bike__ is the most used bikes followed by __electric bike__ and __electric scooter__ respectively.
+
+#### 2. Total trips in 2024
