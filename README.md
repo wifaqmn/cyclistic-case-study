@@ -75,7 +75,7 @@ Observations:
    
     ![image](https://github.com/wifaqmn/imagecontent/blob/main/d.jpeg)
 
-6. The __started_at__ and __ended_at__ shows start and end time of the trip in YYYY-MM-DD hh:mm:ss UTC format. New column __ride_length__ can be created to find the total trip duration. There are 7596 trips which has duration longer than a day and 132644 trips having less than a minute duration or having end time earlier than start time so need to remove them.
+6. The __started_at__ and __ended_at__ shows start and end time of the trip in YYYY-MM-DD hh:mm:ss UTC format. New column __ride_length__ can be created to find the total trip duration. There are 7,596 trips which has duration longer than a day and 1,326,44 trips having less than a minute duration or having end time earlier than start time so need to remove them.
 7. Total of 1,073,951 rows have both __start_station_name__ and __start_station_id__ missing which needs to be removed.  
 8. Total of 1,104,653 rows have both __end_station_name__ and __end_station_id__ missing which needs to be removed.
 9. Total of 7,232 rows have both __end_lat__ and __end_lng__ missing which needs to be removed.
