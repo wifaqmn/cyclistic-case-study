@@ -140,3 +140,16 @@ In order to further understand the indifferences betwwen casual and member rider
 ![image](https://github.com/wifaqmn/imagecontent/blob/main/end_location_cyclistic.png)
 
 Based on both starting and ending locations above, we can see casual riders frequently started and ended their trips from the stations in vicinity of beach, parks, museums, aquarium and harbor points while members started and ended their journeys from stations close to universities, schools, residential areas, hospitals, restaurants, grocery stores, train stations, theatre, factories, banks, parks and plazas. Therefore, it demonstrates casual riders use bikes for leisure activities while members vastly depend on them for daily commute.
+
+Summary:
+  
+|Casual|Member|
+|------|------|
+|Preferably riding bikes throughout the day, more frequently over the weekends in from April to July (spring - summer) for leisure activities.|Preferably using bikes on weekdays during peak hours (8AM/3PM) from April to July (spring - summer).|
+|Travel twice longer but less frequently than members.|Travel more frequently but shorter rides.|
+|Start and end their rides near parks, museums, along the coast and other recreational sites.|Start and end their journeys close to universities, residential and commercial areas.|
+
+After identifying the differences between casual and member riders, there are few marketing strategies recommendations to target casual riders to persuade them to become members:  
+1. Marketing campaigns might be conducted from April to July (spring - summer) at attraction locations among casual riders such as tourist & recreational area.
+2. Casual riders are most active from spring to summer and weekends, thus they may be offered seasonal or weekend-only memberships.
+3. Casual riders use their bikes for longer durations than members. Offering discounts for longer rides may incentivize casual riders and entice members to ride for longer periods of time.
