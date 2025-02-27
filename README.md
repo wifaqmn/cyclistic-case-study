@@ -2,7 +2,7 @@
 ## Introduction
 In this case study, I will perform real-world tasks as junior data analyst for a fictional bike sharing company called Cyclistic. To answer the key business questions, I will follow the steps of data analysis process: [Ask](https://github.com/wifaqmn/cyclistic-case-study/blob/main/README.md#ask), [Prepare](https://github.com/wifaqmn/cyclistic-case-study/blob/main/README.md#prepare), [Process](https://github.com/wifaqmn/cyclistic-case-study/blob/main/README.md#Process), [Analyze](https://github.com/wifaqmn/cyclistic-case-study/blob/main/README.md#analyze--share), [Share](https://github.com/wifaqmn/cyclistic-case-study/blob/main/README.md#analyze--share) and [Act](https://github.com/wifaqmn/cyclistic-case-study/blob/main/README.md#act).
 ### Quick links:
-Data Source: [divvy_tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html) [accessed on 05/02/25]  
+Data Source: [divvy_tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html){:target="_blank" rel="noopener"} [accessed on 05/02/25]  
 
 SQL Queries:  
 [1. Data Combining](https://github.com/wifaqmn/cyclistic-case-study/blob/main/1_data_combination.sql)  
