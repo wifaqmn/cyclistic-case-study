@@ -55,7 +55,7 @@ SQL Query: [Data Exploration](https://github.com/wifaqmn/cyclistic-case-study/bl
 Before the data cleaning process, I need to be familiar with the data to find the inconsistencies.
 
 Observations:
-1. The table below shows the all column names and their data types. The __ride_id__ column is our primary key.
+1. The table below shows the all column names and their data types. The __ride_id__ column is our __primary key__.
 
     ![image](https://github.com/wifaqmn/imagecontent/blob/main/a.jpeg)
 
