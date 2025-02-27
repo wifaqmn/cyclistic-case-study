@@ -149,7 +149,7 @@ Summary:
 |Travel twice longer but less frequently than members.|Travel more frequently but shorter rides.|
 |Start and end their rides near parks, museums, along the coast and other recreational sites.|Start and end their journeys close to universities, residential and commercial areas.|
 
-After identifying the differences between casual and member riders, there are few marketing strategies recommendations to target casual riders to persuade them to become members:  
-1. Marketing campaigns might be conducted from April to July (spring - summer) at attraction locations among casual riders such as tourist & recreational area.
+After sharing these findings about the differences between casual and annual members, the marketing department can start to develop their strategy of converting casual members to annual members. Here are three of my recommendations, given my knowledge of how these riders differ:  
+1. Marketing campaigns might be conducted from April to July (spring - summer) at most popular locations among casual riders such as tourist & recreational area.
 2. Casual riders are most active from spring to summer and weekends, thus they may be offered seasonal or weekend-only memberships.
 3. Casual riders use their bikes for longer durations than members. Offering discounts for longer rides may incentivize casual riders and entice members to ride for longer periods of time.
