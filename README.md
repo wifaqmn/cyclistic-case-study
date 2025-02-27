@@ -1,6 +1,6 @@
 # cyclistic-case-study
 ## Introduction
-In this case study, I will perform real-world tasks as junior data analyst for a fictional bike sharing company called Cyclistic. To answer the key business questions, I will follow the steps of data analysis process: [Ask](https://github.com/wifaqmn/cyclistic-case-study/blob/main/README.md#ask), [Prepare](https://github.com/wifaqmn/cyclistic-case-study/blob/main/README.md#prepare), [Process](https://github.com/wifaqmn/cyclistic-case-study/blob/main/README.md#Process), [Analyze](https://github.com/wifaqmn/cyclistic-case-study/blob/main/README.md#analyze-and-share), [Share](https://github.com/wifaqmn/cyclistic-case-study/blob/main/README.md#analyze-and-share) and [Act](https://github.com/wifaqmn/cyclistic-case-study/blob/main/README.md#act).
+In this case study, I will perform real-world tasks as junior data analyst for a fictional bike sharing company called Cyclistic. To answer the key business questions, I will follow the steps of data analysis process: [Ask](https://github.com/wifaqmn/cyclistic-case-study/blob/main/README.md#ask), [Prepare](https://github.com/wifaqmn/cyclistic-case-study/blob/main/README.md#prepare), [Process](https://github.com/wifaqmn/cyclistic-case-study/blob/main/README.md#Process), [Analyze](https://github.com/wifaqmn/cyclistic-case-study/blob/main/README.md#analyze--share), [Share](https://github.com/wifaqmn/cyclistic-case-study/blob/main/README.md#analyze--share) and [Act](https://github.com/wifaqmn/cyclistic-case-study/blob/main/README.md#act).
 ### Quick links:
 Data Source: [divvy_tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html) [accessed on 05/02/25]  
 
@@ -95,7 +95,7 @@ SQL Query: [Data Cleaning](https://github.com/wifaqmn/cyclistic-case-study/blob/
 4. Trip duration with less than a minute and longer than 1 day are removed.
 5. A total of 1,692,774 rows are removed in this steps.
 
-### Analyze and Share
+### Analyze & Share
 Data Visualizations: [Power BI](https://app.powerbi.com/groups/me/reports/b7f82eb1-91eb-44b4-b22f-4014c3963837/32cbff69d977a14280f1?experience=power-bi)
 
 Analysis question no. 1: How do annual members and casual riders use Cyclistic bikes differently?
