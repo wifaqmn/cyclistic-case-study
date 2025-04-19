@@ -6,9 +6,9 @@ DELETE
 FROM cyclistic-project-50.trip_data.customer_data_2024
 WHERE row_num > 1;
 
-DROP TABLE IF EXISTS cyclistic-project-50.trip_data.customer_data_2024_cleaned;
-
 -- creating new table with clean data
+
+DROP TABLE IF EXISTS cyclistic-project-50.trip_data.customer_data_2024_cleaned;
 
 CREATE TABLE IF NOT EXISTS cyclistic-project-50.trip_data.customer_data_2024_cleaned AS (
   SELECT 
